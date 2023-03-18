@@ -1,6 +1,9 @@
 { 
 "show":true,
 "able":true,
+"customads":true,
+"custombanner":"",
+"customlink":"",
 "version":3,
 "openads":"", 
 "title":"Version 1.0.3 ",
