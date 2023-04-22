@@ -5,6 +5,13 @@
 "openads":"true",
 "streamads":"true", 
 "hlads":"true", 
+"version":3,
+"openads":"", 
+"title":"Version 1.0.3 ",
+"about":"ဗားရှင်းအသစ်ထွက်နေပြီ ဂေါင်းကြီးတို့😍 အခုပဲ ဆော့လ်ဝဲကို အဆင့်မြှင့်တင်လိုက်ပါ",
+"text":"Download",
+"op":"",
+"update":"",
 "hlimg":"",
 "hllink":"",
 "streamimg":"",
@@ -12,12 +19,5 @@
 "openimg":"",
 "openlink":"",
 "custombanner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRj3LTihdGTcoV_Ijvkt4gMrJECH7urLB6iPF6iow2-EWjmz9VuQRspiw3UbUGbnaMicbiOzLLTuhz7gzX_YmRYGawb2Wyk_48GjUN2Cm8YLIUQJo_s2k6lCr_TmXImsDYBwOjemhu6Gt7vz2stdhvPeb3vneZMHN41fJfZ3iiDg1L3d0IBLELvz4D/s320/GIF-f18b8e5c97830807efc5a2c62e5a9847.gif",
-"customlink":"http://bit.ly/3LzFUei",
-"version":3,
-"openads":"", 
-"title":"Version 1.0.3 ",
-"about":"ဗားရှင်းအသစ်ထွက်နေပြီ ဂေါင်းကြီးတို့😍 အခုပဲ ဆော့လ်ဝဲကို အဆင့်မြှင့်တင်လိုက်ပါ",
-"text":"Download",
-"op":"",
-"update":""
+"customlink":"http://bit.ly/3LzFUei"
  }
