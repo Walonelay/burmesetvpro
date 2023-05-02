@@ -1,7 +1,7 @@
 { 
 "show":false,
 "able":true,
-"customads":false,
+"customads":true,
 "openads":"true",
 "streamads":"true", 
 "hlads":"true", 
