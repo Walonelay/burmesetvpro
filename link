@@ -1,6 +1,6 @@
 { 
 "show":true,
-"able":false,
+"able":true,
 "customads":true,
 "openads":"false",
 "streamads":false, 
