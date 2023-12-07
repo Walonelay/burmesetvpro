@@ -2,7 +2,7 @@
 "show":true,
 "able":fasle,
 "customads":true,
-"openads":"false",
+"openads":"true",
 "streamads":false, 
 "hlads":"true", 
 "fbopen":true,
